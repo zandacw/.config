@@ -1,0 +1,7 @@
+[window]
+padding = { x = 10, y = 10 }
+opacity = 0.85
+blur = true
+decorations = "Buttonless"
+startup_mode = "Maximized"
+option_as_alt = "OnlyLeft"
